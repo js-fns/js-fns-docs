@@ -1,10 +1,6 @@
-# js-fns docs generator
+# js-fns documentation utilities
 
-🚧 Work in progress!
-
-## Changelog
-
-See [the changelog](./CHANGELOG.md).
+This library is used to load docs into the database and provide a schema for the website.
 
 ## License
 
